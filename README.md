@@ -1,6 +1,6 @@
 # DS-5220- Diabetic Retinopathy Detection
 
-## Problem Description:
+## Problem Description :
 Diabetic retinopathy is the leading cause of blindness in the working-age population of the
 developed world and is estimated to affect over 93 million people. Currently, detecting DR is a timeconsuming and manual process that requires a trained clinician to examine and evaluate photographs
 of the retina. This poses a challenge in areas that traditionally lack access to skilled clinical facilities.
